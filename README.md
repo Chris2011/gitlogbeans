@@ -12,7 +12,7 @@ Show git commit logs in NetBeans
 
 ## Apache NetBeans and JDK Compatibility
 
-JDK >=
+JDK >= 9
 
 Apache NetBeans >= 9.0
   
